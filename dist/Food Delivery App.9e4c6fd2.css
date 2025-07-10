@@ -1,0 +1,76 @@
+.header {
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+  padding: 2px 90px;
+  display: flex;
+}
+
+.logo-container {
+  width: 195px;
+  height: 119px;
+}
+
+.logo-container img {
+  width: 93%;
+  height: 118px;
+}
+
+.logo {
+  width: 200px;
+}
+
+.nav-items-container {
+  gap: 44px;
+  display: flex;
+}
+
+.body-cuisine-section {
+  height: 200px;
+  padding: 40px 90px;
+}
+
+.cuisine-section-heading {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.body-restaurant-section {
+  flex-direction: column;
+  padding: 0 90px;
+  display: flex;
+}
+
+.restaurant-section-heading {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.rest-card-container {
+  border-radius: 8px;
+  width: 240px;
+  padding: 20px;
+  box-shadow: 0 2px 8px #63636333;
+}
+
+.rest-card-details {
+  flex-direction: column;
+  gap: 10px;
+  display: flex;
+}
+
+.rest-img {
+  border-radius: 8px;
+  width: 100%;
+  height: 220px;
+}
+
+.restaurant-list {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  display: flex;
+}
+/*# sourceMappingURL=Food Delivery App.9e4c6fd2.css.map */

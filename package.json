@@ -1,0 +1,33 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "This is a personal project ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyaaa03/Food-delivery-app.git"
+  },
+  "keywords": [
+    "Project",
+    "Priya",
+    "Pathak",
+    "Food",
+    "Delivery",
+    "App"
+  ],
+  "author": "Priya Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyaaa03/Food-delivery-app/issues"
+  },
+  "homepage": "https://github.com/Priyaaa03/Food-delivery-app#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
